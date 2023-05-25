@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @ahmedfolly
-- 👀 I’m interested in android programming...
-- 💞️ I’m looking to collaborate on Android apps...
+#### Hi, I am Ahmed Folly.
+
+I'm a self-taught passionate Android developer from Egypt
+
+**About me**
+- 👨‍💻 I have more than 4 years of experience in developing android apps.
+- ✅ My objective in devloping andriod apps are (Reusability,Readability,Extensibility).
+- 📚 I love Reading so much spicially programming books as(Clean code - the object oriented thought process - Dive into design patterns ...etc).
+- 💻 I love learning new things.
+- ❤️ I love writing kotlin, java, and python
+<code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
 
 
-<!---
-ahmedfolly/ahmedfolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+| <a href="https://github.com/ahmedfolly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfolly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfolly&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
