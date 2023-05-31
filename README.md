@@ -4,8 +4,8 @@ I'm a self-taught passionate Android developer from Egypt
 
 **About me**
 - 👨‍💻 I have more than 4 years of experience in developing android apps.
-- ✅ My objective in devloping andriod apps are (Reusability,Readability,Extensibility).
-- 📚 I love Reading so much spicially programming books as(Clean code - the object oriented thought process - Dive into design patterns ...etc).
+- ✅ My objectives in developing android apps are (Reusability,Readability,Extensibility).
+- 📚 I love Reading so much specially programming books as(Clean code - the object oriented thought process - Dive into design patterns ...etc).
 - 💻 I love learning new things.
 - ❤️ I love writing kotlin, java, and python
 <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
