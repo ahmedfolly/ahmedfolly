@@ -17,7 +17,6 @@ I'm a self-taught passionate Android developer from Egypt
 
 
 | <a href="https://github.com/ahmedfolly/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfolly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed's github stats" /></a>
-<a ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfolly&size_weight=0.5&count_weight=0.5)/></a>
-| ------------- | ------------- |
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfolly&size_weight=0.5&count_weight=0.5)
 
 
